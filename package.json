@@ -1,0 +1,17 @@
+{
+  "name": "zteller",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon dist/index.jet.js",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "friday candour",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jetpath": "^1.5.21",
+    "safetoken": "^2.0.2"
+  }
+}
