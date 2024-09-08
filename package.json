@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon dist/index.jet.js",
+    "start": "node dist/index.jet.js",
     "watch": "tsc -w"
   },
   "keywords": [],
